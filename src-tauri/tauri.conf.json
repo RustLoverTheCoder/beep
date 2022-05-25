@@ -59,7 +59,10 @@
         "height": 600,
         "resizable": true,
         "title": "beep",
-        "width": 800
+        "width": 960,
+        "minWidth": 960,
+        "decorations": true,
+        "theme": "Light"
       }
     ]
   }
