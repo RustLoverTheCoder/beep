@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "@tauri-apps/api": "^1.0.0-rc.6",
+    "monaco-editor": "^0.33.0",
     "solid-js": "^1.4.2"
   }
 }
